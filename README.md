@@ -16,9 +16,9 @@ Thesis: *Inteligencia Artificial Explicable: Métodos para generación, evaluaci
 
 | Project | What it is |
 |---|---|
-| [STOOD-X](https://github.com/isega24/STOOD-X) | Nonparametric statistical test for out-of-distribution detection that explains which features drove the decision. |
+| [STOOD-X](https://github.com/ari-dasci/S-STOOD-X) | Nonparametric statistical test for out-of-distribution detection that explains which features drove the decision. |
 | [S-ReVel](https://github.com/ari-dasci/S-ReVel) | Reference implementation and metrics for local linear explanations of black-box models (AGPL-3.0). |
-| [SHIELD](https://github.com/isega24/SHIELD) | T-SHIELD / X-SHIELD regularizations: hide input features during training so the model must generalize without them. |
+| [SHIELD](https://github.com/ari-dasci/S-T-SHIELD) | T-SHIELD / X-SHIELD regularizations: hide input features during training so the model must generalize without them. |
 | [XAI-COVID19](https://github.com/isega24/XAI-COVID19) | COVID-19 detection from chest X-rays together with explanations of the model's decisions. |
 
 ## Papers
